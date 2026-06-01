@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\pharmacywinforms\\productdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\productdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\productdialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\productdialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\productdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\productdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\pharmacistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\pharmacistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\pharmacywinforms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\clientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\clientform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\pharmacywinforms\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\clientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\data\\pharmacycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\data\\pharmacycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\pharmacywinforms\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\pharmacywinforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2065017024:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Services\\ProductService.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Services\\ProductService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:01:29.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:01:10.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:01:05.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\Employee.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:52:08.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Data\\Class1.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Data\\Class1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:52:01.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\Product.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:38:03.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\OrderItem.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:37:54.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\Order.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:24:40.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T17:22:05.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:58:50.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PharmacyContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Data\\PharmacyContext.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Data\\PharmacyContext.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Data\\PharmacyContext.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Data\\PharmacyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:56:49.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Services\\OrderService.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Services\\OrderService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:47:01.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\appsettings.json",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\appsettings.json",
+              "RelativeToolTip": "PharmacyWinForms\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T16:30:43.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ClientForm.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ClientForm.cs",
+              "RelativeToolTip": "PharmacyWinForms\\ClientForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:22:53.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ClientForm.Designer.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\ClientForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ClientForm.Designer.cs",
+              "RelativeToolTip": "PharmacyWinForms\\ClientForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:22:37.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDialog.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ProductDialog.Designer.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\ProductDialog.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ProductDialog.Designer.cs",
+              "RelativeToolTip": "PharmacyWinForms\\ProductDialog.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:56:24.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDialog.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ProductDialog.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\ProductDialog.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ProductDialog.cs",
+              "RelativeToolTip": "PharmacyWinForms\\ProductDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:56:16.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PharmacistForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\PharmacistForm.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\PharmacistForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\PharmacistForm.cs",
+              "RelativeToolTip": "PharmacyWinForms\\PharmacistForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:52:52.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PharmacistForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\PharmacistForm.Designer.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\PharmacistForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\PharmacistForm.Designer.cs",
+              "RelativeToolTip": "PharmacyWinForms\\PharmacistForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:52:37.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\LoginForm.cs",
+              "RelativeToolTip": "PharmacyWinForms\\LoginForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:51:42.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "PharmacyWinForms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:51:24.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\AdminForm.Designer.cs",
+              "RelativeToolTip": "PharmacyWinForms\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAK4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:47:39.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\AdminForm.cs",
+              "RelativeToolTip": "PharmacyWinForms\\AdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:47:17.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Program.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:40:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ClientForm.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\ClientForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "PharmacyWinForms\\ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:22:19.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ProductDialog.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\ProductDialog.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ProductDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "PharmacyWinForms\\ProductDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:56:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PharmacistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\PharmacistForm.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\PharmacistForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\PharmacistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "PharmacyWinForms\\PharmacistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:52:33.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "PharmacyWinForms\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:51:18.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\AdminForm.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "PharmacyWinForms\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:47:07.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -16,6 +16,7 @@ namespace ISApteka.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            // Конвертер для DateTime (UTC)
             var dateTimeConverter = new ValueConverter<DateTime, DateTime>(
                 v => v.ToUniversalTime(),
                 v => DateTime.SpecifyKind(v, DateTimeKind.Utc));
@@ -31,6 +32,7 @@ namespace ISApteka.Data
                 }
             }
 
+            // Настройка таблиц
             modelBuilder.Entity<Product>(entity =>
             {
                 entity.ToTable("products");
@@ -67,6 +69,7 @@ namespace ISApteka.Data
                 entity.Property(e => e.Role).HasColumnName("Role");
             });
 
+            // Конвертация enum в int
             modelBuilder.Entity<Order>()
                 .Property(o => o.Status)
                 .HasConversion<int>();
@@ -75,15 +78,10 @@ namespace ISApteka.Data
                 .Property(e => e.Role)
                 .HasConversion<int>();
 
+            // Уникальный индекс для Login
             modelBuilder.Entity<Employee>()
                 .HasIndex(e => e.Login)
                 .IsUnique();
-
-            modelBuilder.Entity<OrderItem>()
-                .HasOne<Order>()
-                .WithMany(o => o.Items)
-                .HasForeignKey(oi => oi.OrderId)
-                .OnDelete(DeleteBehavior.Cascade);
 
             base.OnModelCreating(modelBuilder);
         }

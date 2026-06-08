@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PharmacyWinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+707dde6c5b713040882d69fe804ac0592d2d624e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PharmacyWinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PharmacyWinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

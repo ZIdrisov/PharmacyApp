@@ -102,6 +102,7 @@ C:\Users\Админ\source\repos\PharmacyWinForms\PharmacyWinForms\obj\Debug\net
 C:\Users\Админ\source\repos\PharmacyWinForms\PharmacyWinForms\obj\Debug\net8.0-windows\PharmacyWinForms.AssemblyInfoInputs.cache
 C:\Users\Админ\source\repos\PharmacyWinForms\PharmacyWinForms\obj\Debug\net8.0-windows\PharmacyWinForms.AssemblyInfo.cs
 C:\Users\Админ\source\repos\PharmacyWinForms\PharmacyWinForms\obj\Debug\net8.0-windows\PharmacyWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\PharmacyWinForms\PharmacyWinForms\obj\Debug\net8.0-windows\PharmacyWinForms.sourcelink.json
 C:\Users\Админ\source\repos\PharmacyWinForms\PharmacyWinForms\obj\Debug\net8.0-windows\Pharmacy.429485EF.Up2Date
 C:\Users\Админ\source\repos\PharmacyWinForms\PharmacyWinForms\obj\Debug\net8.0-windows\PharmacyWinForms.dll
 C:\Users\Админ\source\repos\PharmacyWinForms\PharmacyWinForms\obj\Debug\net8.0-windows\refint\PharmacyWinForms.dll

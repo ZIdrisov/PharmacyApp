@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\migrations\\20260608070001_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\migrations\\20260608070001_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE5615E-B054-4ED4-8054-B1726684C3CB}|PharmacyWinForms.Tests\\PharmacyWinForms.Tests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms.tests\\pharmacywinforms.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDE5615E-B054-4ED4-8054-B1726684C3CB}|PharmacyWinForms.Tests\\PharmacyWinForms.Tests.csproj|solutionrelative:pharmacywinforms.tests\\pharmacywinforms.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -103,16 +119,8 @@
       "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\data\\pharmacycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\pharmacywinforms\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\pharmacistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\source\\repos\\pharmacywinforms\\pharmacywinforms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|solutionrelative:pharmacywinforms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6525ABE0-F191-4AFE-B9A0-7BC6F1E5C836}|PharmacyWinForms\\PharmacyWinForms.csproj|C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\pharmacywinforms\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -126,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 32,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,7 +174,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "20260608070001_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Migrations\\20260608070001_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PharmacyWinForms\\Migrations\\20260608070001_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Migrations\\20260608070001_InitialCreate.cs",
+              "RelativeToolTip": "PharmacyWinForms\\Migrations\\20260608070001_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T09:51:53.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PharmacyWinForms.Tests",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms.Tests\\PharmacyWinForms.Tests.csproj",
+              "RelativeDocumentMoniker": "PharmacyWinForms.Tests\\PharmacyWinForms.Tests.csproj",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms.Tests\\PharmacyWinForms.Tests.csproj",
+              "RelativeToolTip": "PharmacyWinForms.Tests\\PharmacyWinForms.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T07:47:35.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Services\\ProductService.cs",
@@ -178,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Services\\EmployeeService.cs",
@@ -186,11 +228,12 @@
               "RelativeToolTip": "PharmacyWinForms\\Services\\EmployeeService.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T18:01:10.511Z"
+              "WhenOpened": "2026-05-31T18:01:10.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Repositories\\ProductRepository.cs",
@@ -202,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Models\\Employee.cs",
@@ -214,19 +257,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Data\\Class1.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Data\\Class1.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Data\\Class1.cs",
               "RelativeToolTip": "PharmacyWinForms\\Data\\Class1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T17:52:01.782Z"
+              "WhenOpened": "2026-05-31T17:52:01.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\Product.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Models\\Product.cs",
@@ -238,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Models\\OrderItem.cs",
@@ -250,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Models\\Order.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Models\\Order.cs",
@@ -262,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Repositories\\OrderRepository.cs",
@@ -274,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Repositories\\EmployeeRepository.cs",
@@ -286,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "PharmacyContext.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Data\\PharmacyContext.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Data\\PharmacyContext.cs",
@@ -298,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Services\\OrderService.cs",
@@ -310,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\appsettings.json",
               "RelativeDocumentMoniker": "PharmacyWinForms\\appsettings.json",
@@ -322,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ClientForm.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ClientForm.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\ClientForm.cs",
@@ -335,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ClientForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ClientForm.Designer.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\ClientForm.Designer.cs",
@@ -347,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ProductDialog.Designer.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ProductDialog.Designer.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\ProductDialog.Designer.cs",
@@ -359,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ProductDialog.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ProductDialog.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\ProductDialog.cs",
@@ -372,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "PharmacistForm.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\PharmacistForm.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\PharmacistForm.cs",
@@ -385,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "PharmacistForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\PharmacistForm.Designer.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\PharmacistForm.Designer.cs",
@@ -397,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\LoginForm.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\LoginForm.cs",
@@ -410,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "LoginForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\LoginForm.Designer.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\LoginForm.Designer.cs",
@@ -422,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "AdminForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\AdminForm.Designer.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\AdminForm.Designer.cs",
@@ -434,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "AdminForm.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\AdminForm.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\AdminForm.cs",
@@ -447,24 +491,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Program.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\Program.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\Program.cs",
               "RelativeToolTip": "PharmacyWinForms\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T12:40:14.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2026-05-25T12:40:14.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "ClientForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ClientForm.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\ClientForm.cs",
@@ -475,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ProductDialog.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\ProductDialog.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\ProductDialog.cs",
@@ -486,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "PharmacistForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\PharmacistForm.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\PharmacistForm.cs",
@@ -497,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\LoginForm.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\LoginForm.cs",
@@ -508,7 +547,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\source\\repos\\PharmacyWinForms\\PharmacyWinForms\\AdminForm.cs",
               "RelativeDocumentMoniker": "PharmacyWinForms\\AdminForm.cs",

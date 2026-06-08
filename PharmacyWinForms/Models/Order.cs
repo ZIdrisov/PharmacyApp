@@ -23,6 +23,7 @@ namespace ISApteka.Models
         [Column("status")]
         public OrderStatus Status { get; set; }
 
+        // Связь с позициями заказа (один ко многим)
         public List<OrderItem> Items { get; set; } = new();
     }
 }

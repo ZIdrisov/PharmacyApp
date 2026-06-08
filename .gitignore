@@ -1,0 +1,10 @@
+bin/
+obj/
+Migrations/
+.vs/
+*.user
+*.suo
+*.db
+*.log
+*.tmp
+.DS_Store

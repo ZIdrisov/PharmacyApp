@@ -21,5 +21,9 @@ namespace ISApteka.Models
 
         [Column("quantity")]
         public int Quantity { get; set; }
+
+        // Навигационные свойства (для связей)
+        public Order? Order { get; set; }
+        public Product? Product { get; set; }
     }
 }

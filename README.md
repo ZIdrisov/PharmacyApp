@@ -27,13 +27,11 @@ cd PharmacyApp
 
 ### 2. Настройка и подготовка базы данных PostgreSQL
 1. Откройте **pgAdmin 4** и создайте новую базу данных с именем `PharmacyDB`.
-2. Откройте файл `appsettings.json` в папке проекта и укажите параметры подключения к серверу PostgreSQL: хост, порт, имя базы данных (`PharmacyDB`), имя пользователя (по умолчанию `postgres`) и пароль.
-3. Создайте таблицы и заполните начальные данные одним из способов:
-   - **Через миграции Entity Framework Core** (после установки `dotnet-ef` на следующем шаге):
-     ```bash
-     dotnet ef database update
-     ```
-
+2. В проекте найдите файл конфигурации (обычно это appsettings.json или appsettings.Development.json).
+3. Откройте его и измените строку подключения (ConnectionStrings). Она должна выглядеть примерно так: ```bash "ConnectionStrings": {
+  "DefaultConnection": "Host=localhost;Port=5432;Database=PharmacyDb;Username=postgres;Password=ВАШ_ПАРОЛЬ"
+} ``` Замените ВАШ_ПАРОЛЬ на пароль, который вы задали при установке PostgreSQL.
+5. Создайте таблицы и заполните начальные данные:
    - **Вручную через SQL-скрипт** в pgAdmin 4 (создает таблицы `employees`, `products`, `orders`, `orderitems` и заполняет стартовые записи):
 
 ```sql
